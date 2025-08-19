@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BigEmoticon",
+            "request": "launch",
+            "mainClass": "u1ab.BigEmoticon",
+            "projectName": "u8pp"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "u8pp.Main",
