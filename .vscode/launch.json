@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ChatBot",
+            "request": "launch",
+            "mainClass": "u1ab.ChatBot",
+            "projectName": "u8pp"
+        },
+        {
+            "type": "java",
             "name": "TemperatureConverter",
             "request": "launch",
             "mainClass": "u1ab.TemperatureConverter",
