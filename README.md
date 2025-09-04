@@ -58,6 +58,7 @@ It is recommended to submit everytime you have some code working (every finished
 2. Wait for it to load, until a big green button shows up
 3. Type a message to summarize your changes
 4. Press the green "Commit" button. (this saves the changes as a group)
+  - if it takes forever to commit, you probably forgot to write a message. Write the message in the tab that comes up and then close the tab. 
 5. Press the "Sync Changes" button (this pushes your changes to the cloud)
 6. You know it works if you can see your change on the bottom left linear graph. Your change should have a purple cloud icon and a blue target icon. 
 
