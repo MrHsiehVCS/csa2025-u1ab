@@ -25,7 +25,7 @@ public class TemperatureConverterTest {
     @Test
     void testMainMethodOutput() {
         
-        BigEmoticon.main(new String[]{}); 
+        TemperatureConverter.main(new String[]{}); 
 
         String expected = 
         "converting 23.0C to F: 73.4\n" + 
