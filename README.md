@@ -58,7 +58,7 @@ It is recommended to submit everytime you have some code working (every finished
 2. Wait for it to load, until a big green button shows up
 3. Type a message to summarize your changes
 4. Press the green "Commit" button. (this saves the changes as a group)
-5. Press the "Sync" button (this pushes your changes to the cloud)
+5. Press the "Sync Changes" button (this pushes your changes to the cloud)
 6. You know it works if you can see your change on the bottom left linear graph. Your change should have a purple cloud icon and a blue target icon. 
 
 ## Grading Breakdown
