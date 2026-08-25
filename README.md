@@ -69,4 +69,5 @@ It is recommended to submit everytime you have some code working (every finished
 - ~~No public methods/attributes besides the ones specified: 0 point~~ (not applicable for this project)
 - ~~All code is DRY (Don't repeat yourself): 0 points~~ (not applicable for this project)
 - Test cases: 4 points (2 tests, 2 pts each)
+  
 Total: 10 points
